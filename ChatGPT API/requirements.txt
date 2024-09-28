@@ -1,0 +1,3 @@
+json
+python-dot_env
+openai
